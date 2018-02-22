@@ -1,0 +1,6 @@
+age,workclass,fnlwgt,education,education_num,occupation,sex,hours_per_week,income
+39, State-gov,77516, Bachelors,13, Adm-clerical, Male,40, <=50K
+52, Self-emp-not-inc,209642, HS-grad,9, Exec-managerial, Male,45, >50K
+31, Private,45781, Masters,14, Prof-specialty, Female,50, >50K
+23, Private,122272, Bachelors,13, Adm-clerical, Female,30, <=50K
+32, Private,205019, Assoc-acdm,12, Sales, Male,50, <=50K
